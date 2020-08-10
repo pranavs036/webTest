@@ -1,0 +1,121 @@
+.top-container{
+  background-color: #cffffe;
+  position: relative;
+  padding-top: 70px;
+}
+.top-cloud{
+  position: absolute;
+  top: 20px;
+  right: 30%;
+}
+.bottom-cloud{
+  position: absolute;
+}
+body{
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #272343;
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  color:#00bcd4;
+  font-size: 5em;
+}
+h2{
+    color:#00bcd4;
+    font-family: 'Open Sans', sans-serif;
+}
+.middle-container{
+  padding: 3em;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5em;
+  height:50px;
+  border-color: grey;
+}
+.flutter{
+
+  width:25%;
+  float: left;
+  margin-right: 10px;
+}
+.computer{
+
+  width:25%;
+  border-radius: 10%;
+  float: right;
+  margin-right: 10px;
+}
+.code{
+  float: left;
+  width: 25%;
+  margin-right: 10px;
+}
+.skill-row{
+  margin:100px auto 100px;
+  width:50%;
+  line-height: 2;
+  text-align: left;
+  padding: 0 2em 0;
+
+}
+.para{
+  text-align: left;
+
+}
+.heading{
+
+}
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.contact-me{
+  margin-bottom: 6em;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 3em 5em 3em 5em;
+}
+.footer:link{
+  text-decoration: none;
+  margin-right: 1.3em;
+  margin-left: 1.3em;
+  color: #11999E;
+
+}
+.footer:visited{
+  text-decoration: none;
+  color: #11999E;
+
+}
+.footer:hover{
+  text-decoration: underline;
+  color: inherit;
+}
